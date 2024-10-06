@@ -41,6 +41,6 @@
 
 <br clear="both">
 <div align="center">
-<img src="https://raw.githubusercontent.com/Marc-Braun-72/Marc-Braun-72/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Marc-Braun-72/dist/snake.svg" alt="Snake animation" />
 </div>
 
